@@ -1,0 +1,4 @@
+﻿  模拟实现memmove.cpp
+D:\coad\study\模拟实现memmove\模拟实现memmove.cpp(6,2): warning C4002: 类函数宏的调用“assert”参数过多
+D:\coad\study\模拟实现memmove\模拟实现memmove.cpp(9,16): warning C4018: “<”: 有符号/无符号不匹配
+  模拟实现memmove.vcxproj -> D:\coad\study\模拟实现memmove\Debug\模拟实现memmove.exe
