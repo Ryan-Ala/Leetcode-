@@ -1,0 +1,3 @@
+﻿  模拟实现memcpy.cpp
+D:\coad\study\模拟实现memcpy\模拟实现memcpy.cpp(6,2): warning C4002: 类函数宏的调用“assert”参数过多
+  模拟实现memcpy.vcxproj -> D:\coad\study\模拟实现memcpy\Debug\模拟实现memcpy.exe
