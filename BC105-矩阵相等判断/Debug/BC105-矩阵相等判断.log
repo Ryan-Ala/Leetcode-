@@ -1,0 +1,15 @@
+﻿  BC105-矩阵相等判断.cpp
+D:\coad\study\BC105-矩阵相等判断\BC105-矩阵相等判断.cpp(8,11): error C2131: 表达式的计算结果不是常数
+D:\coad\study\BC105-矩阵相等判断\BC105-矩阵相等判断.cpp(8,11): message : 因读取超过生命周期的变量而失败
+D:\coad\study\BC105-矩阵相等判断\BC105-矩阵相等判断.cpp(8,11): message : 请参见“row”的用法
+D:\coad\study\BC105-矩阵相等判断\BC105-矩阵相等判断.cpp(8,16): error C2131: 表达式的计算结果不是常数
+D:\coad\study\BC105-矩阵相等判断\BC105-矩阵相等判断.cpp(8,16): message : 因读取超过生命周期的变量而失败
+D:\coad\study\BC105-矩阵相等判断\BC105-矩阵相等判断.cpp(8,16): message : 请参见“col”的用法
+D:\coad\study\BC105-矩阵相等判断\BC105-矩阵相等判断.cpp(8,24): error C2131: 表达式的计算结果不是常数
+D:\coad\study\BC105-矩阵相等判断\BC105-矩阵相等判断.cpp(8,24): message : 因读取超过生命周期的变量而失败
+D:\coad\study\BC105-矩阵相等判断\BC105-矩阵相等判断.cpp(8,24): message : 请参见“row”的用法
+D:\coad\study\BC105-矩阵相等判断\BC105-矩阵相等判断.cpp(8,29): error C2131: 表达式的计算结果不是常数
+D:\coad\study\BC105-矩阵相等判断\BC105-矩阵相等判断.cpp(8,29): message : 因读取超过生命周期的变量而失败
+D:\coad\study\BC105-矩阵相等判断\BC105-矩阵相等判断.cpp(8,29): message : 请参见“col”的用法
+D:\coad\study\BC105-矩阵相等判断\BC105-矩阵相等判断.cpp(12,17): warning C4552: ”>>“: 未使用表达式结果
+D:\coad\study\BC105-矩阵相等判断\BC105-矩阵相等判断.cpp(17,17): warning C4552: ”>>“: 未使用表达式结果
